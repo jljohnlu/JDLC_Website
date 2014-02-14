@@ -17,7 +17,7 @@
     
     <h3>what up chicken mcnugget?</h3>
 
-    <h4>CHICKEHN SUCKS</h4>
+    <h4>Yo colin this is me testing - john</h4>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
