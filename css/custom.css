@@ -1,0 +1,504 @@
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Pad the edges of the mobile views a bit */
+.marketing {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 30px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.featurette-small {
+  font-weight: 50;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+
+  /* Remove the edge padding needed for mobile */
+  .marketing {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* Navbar positioning foo */
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  margin: 0 auto -60px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+  padding-top: 10px;
+  height: 40px;
+}
+#footer {
+  background-color: #eee;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #eee;
+}
+}
+.hero {
+  height: 200px;
+  margin-top: 15px;
+  background: #818181;
+  position: relative;
+}
+@media (max-width: 768px) {
+  .hero {
+    height: auto;
+  }
+}
+.hero h2 {
+  color: #fff;
+  font-size: 48px;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  position: relative;
+  margin-top: 60px;
+  z-index: 2;
+  text-shadow: black 0.1em 0.1em 0.2em
+}
+@media (max-width: 1200px) {
+  .hero h2 {
+    font-size: 40px;
+    text-shadow: black 0.1em 0.1em 0.2em
+  }
+}
+@media (max-width: 992px) {
+  .hero h2 {
+    font-size: 35px;
+    text-shadow: black 0.1em 0.1em 0.2em
+  }
+}
+@media (max-width: 768px) {
+  .hero h2 {
+    margin-bottom: 30px;
+    text-shadow: black 0.1em 0.1em 0.2em
+  }
+}
+.hero .container {
+  height: 620px;
+  position: relative;
+  z-index: 1;
+}
+@media (max-width: 992px) {
+  .home .hero .container {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+@media (max-width: 768px) {
+  .hero .container {
+    height: auto;
+  }
+}
+.hero .container .hero-tabs {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 15px;
+  right: 15px;
+  height: 100%;
+}
+@media (max-width: 992px) {
+  .hero .container .hero-tabs {
+    left: 0;
+    right: 0;
+  }
+}
+@media (max-width: 768px) {
+  .hero .container .hero-tabs {
+    position: relative;
+    height: auto;
+  }
+}
+.hero .hero-tab {
+  width: 25%;
+  float: left;
+  height: 105px;
+  margin-top: 515px;
+  padding: 20px;
+  color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  -webkit-transition: all 0.5s cubic-bezier(0.400, 0.095, 0.470, 0.875);
+  transition: all 0.5s cubic-bezier(0.400, 0.095, 0.470, 0.875);
+}
+@media (max-width: 768px) {
+  .hero .hero-tab {
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    padding: 30px;
+  }
+}
+.hero .hero-tab:hover {
+  height: 115px;
+  margin-top: 505px;
+}
+@media (max-width: 768px) {
+  .hero .hero-tab:hover {
+    height: auto;
+    margin-top: 0;
+  }
+}
+.hero .hero-tab .hero-icon {
+  width: 65px;
+  height: 65px;
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+  float: left;
+  margin-right: 20px;
+}
+@media (max-width: 992px) {
+  .hero .hero-tab .hero-icon {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .hero .hero-tab .hero-icon {
+    display: block;
+    float: none;
+    margin-bottom: 15px;
+  }
+}
+.hero .hero-tab .hero-icon-mobile {
+  background: url(../img/sprite.png) no-repeat -116px 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .hero .hero-tab .hero-icon-mobile {
+    background: url(../img/sprite-2x.png) no-repeat -116px 0;
+    background-size: 402px 442px;
+  }
+}
+.hero .hero-tab .hero-icon-marketing {
+  background: url(../img/sprite.png) no-repeat -181px 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .hero .hero-tab .hero-icon-marketing {
+    background: url(../img/sprite-2x.png) no-repeat -181px 0;
+    background-size: 402px 442px;
+  }
+}
+.hero .hero-tab .hero-icon-operations {
+  background: url(../img/sprite.png) no-repeat -246px 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .hero .hero-tab .hero-icon-operations {
+    background: url(../img/sprite-2x.png) no-repeat -246px 0;
+    background-size: 402px 442px;
+  }
+}
+.hero .hero-tab h3 {
+  font-family: 'Gotham A', 'Gotham B';
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  line-height: 1;
+}
+@media (max-width: 1200px) {
+  .hero .hero-tab h3 {
+    font-size: 14px;
+  }
+}
+.hero .hero-tab h4 {
+  font-family: 'Gotham A', 'Gotham B';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 1;
+}
+@media (max-width: 1200px) {
+  .hero .hero-tab h4 {
+    font-size: 12px;
+  }
+}
+@media (max-width: 768px) {
+  .hero .hero-tab h4 {
+    font-size: 30px;
+  }
+}
+.hero .hero-tab .hero-tab-content {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.5s cubic-bezier(0.400, 0.095, 0.470, 0.875) 0.5s;
+  transition: opacity 0.5s cubic-bezier(0.400, 0.095, 0.470, 0.875) 0.5s;
+}
+@media (max-width: 768px) {
+  .hero .hero-tab .hero-tab-content {
+    opacity: 1;
+    filter: alpha(opacity=100);
+  }
+}
+.hero .hero-tab ul {
+  list-style: none;
+  padding: 0 11px;
+  margin-bottom: 20px;
+}
+.hero .hero-tab ul li {
+  margin-bottom: 10px;
+}
+.hero .hero-tab ul li:before {
+  content: '- ';
+  margin-left: -11px;
+}
+.hero .hero-tab.active {
+  width: 50%;
+  height: 620px;
+  margin-top: 0px;
+  padding: 155px 65px 60px;
+  cursor: default;
+}
+@media (max-width: 1200px) {
+  .hero .hero-tab.active {
+    padding: 135px 40px 80px;
+  }
+}
+@media (max-width: 992px) {
+  .hero .hero-tab.active {
+    padding: 135px 30px 80px;
+  }
+}
+@media (max-width: 768px) {
+  .hero .hero-tab.active {
+    width: 100%;
+    padding: 30px;
+    height: auto;
+  }
+}
+.hero .hero-tab.active .hero-icon {
+  float: none;
+  margin-bottom: 15px;
+}
+@media (max-width: 992px) {
+  .hero .hero-tab.active .hero-icon {
+    display: block;
+  }
+}
+.hero .hero-tab.active h4 {
+  font-size: 36px;
+}
+@media (max-width: 1200px) {
+  .hero .hero-tab.active h4 {
+    font-size: 30px;
+  }
+}
+.hero .hero-tab.active .hero-tab-content {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.hero .hero-tab.hero-tab-1 {
+  background: #00c7cc top right;
+}
+.hero .hero-tab.hero-tab-1.active {
+  background: rgba(0, 199, 204, 0.92);
+}
+@media (max-width: 768px) {
+  .hero .hero-tab.hero-tab-1.active {
+    background: #00c7cc;
+  }
+}
+.hero .hero-tab.hero-tab-2 {
+  background: #fb8809 top right;
+}
+.hero .hero-tab.hero-tab-2.active {
+  background: rgba(251, 136, 9, 0.92);
+}
+@media (max-width: 768px) {
+  .hero .hero-tab.hero-tab-2.active {
+    background: #fb8809;
+  }
+}
+.hero .hero-tab.hero-tab-3 {
+  background: #1862ff top right;
+}
+.hero .hero-tab.hero-tab-3.active {
+  background: rgba(24, 98, 255, 0.92);
+}
+@media (max-width: 768px) {
+  .hero .hero-tab.hero-tab-3.active {
+    background: #1862ff;
+  }
+}
+.hero .hero-tab-images {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+.hero .hero-tab-images .hero-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.5s linear;
+  transition: opacity 0.5s linear;
+}
+.hero .hero-tab-images .hero-image.active {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.image-bio-thumbnail{
+    width: 125px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+@media (max-width: 1200px) {
+  .image-bio-thumbnail {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+}
+@media (max-width: 768px) {
+  .image-bio-thumbnail {
+    width: 80px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+}
