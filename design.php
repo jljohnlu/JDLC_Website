@@ -65,7 +65,7 @@
 
 <form action="designoutput.php" method="post" name="form">
 
-	<input name="body" type="text" style="height:100px; width: 100px;" value="url('images/arm.png')">
+	<input name="body" type="text" style="height:100px; width: 100px;" value="images/arm.png">
 	<input name="body" type="text" style="background-image:url('images/foot.png'); height:100px; width: 100px;" value="foot">
 
 <input name="submit" type="submit" value="Submit">
