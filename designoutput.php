@@ -1,12 +1,13 @@
 <?php
-$body = $_post["body"];
-$size = $_post["size"];
-$shape = $_post["shape"];
+$body = $_POST["body"];
+$size = $_POST["size"];
+$shape = $_POST["shape"];
 
 echo $body;
 <br>
 echo $size;
 <br>
 echo $shape;
+echo "error";
 
 ?>
