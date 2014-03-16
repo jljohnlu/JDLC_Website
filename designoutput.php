@@ -13,6 +13,7 @@ $shape = $_POST["shape"];
 
 echo $body;
 <<<<<<< HEAD
+<<<<<<< HEAD
 <br>
 echo $size;
 <br>
@@ -35,6 +36,9 @@ echo "POST".$body;
 </html>
 
 
+=======
+?>
+>>>>>>> parent of 29f4519... test
 =======
 ?>
 >>>>>>> parent of 29f4519... test
