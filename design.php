@@ -65,7 +65,7 @@
 
 <form action="designoutput.php" method="post" name="form">
 
-<div id="my-icon-select"></div>
+	<input name="grantname" type="text" style="background-image:url('images/arm.png'); height:100px; width: 100px;">
 
 <input name="submit" type="submit" value="Submit">
 </form>
