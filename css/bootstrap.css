@@ -470,22 +470,23 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
-  font-weight: 200;
+  font-size: 12px;
   line-height: 1.4;
+  text-align:justify;
+  text-justify:inter-word;
 }
 .lead-small {
   margin-bottom: 20px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 200;
   line-height: 1.4;
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 16px;
   }
   .lead-small {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 small,
@@ -573,7 +574,7 @@ a.bg-danger:hover {
 }
 .page-header {
   padding-bottom: 9px;
-  margin: 40px 0 20px;
+  margin: 0px 0 0px;
   border-bottom: 1px solid #eee;
 }
 ul,
@@ -3473,7 +3474,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eee;
+  background-color: #A4D9D1;
 }
 .nav > li.disabled > a {
   color: #999;
@@ -3578,8 +3579,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #fff;
-  background-color: #428bca;
+  color: white;
+  background-color: #A4D9D1;
 }
 .nav-stacked > li {
   float: none;
@@ -3763,10 +3764,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
-  padding: 15px 15px;
+  padding: 10px 15px;
   font-size: 18px;
   line-height: 20px;
+  max-height: 50px;
+  width: auto;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -5132,7 +5134,6 @@ button.close {
 .modal.in .modal-dialog {
   -webkit-transform: translate(0, 0);
       -ms-transform: translate(0, 0);
-          transform: translate(0, 0);
 }
 .modal-dialog {
   position: relative;
