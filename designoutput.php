@@ -1,7 +1,3 @@
-<?php 
- error_reporting(E_ALL); 
-?>
-
 <html>
  <head>
   <title>PHP Test</title>
@@ -14,13 +10,13 @@ echo "POST".$body;
 ?>
 
 <?php
-$body = $_POST['shape'];
-echo "POST".$body;
+$size = $_POST['size'];
+echo $size;
 ?>
 
 <?php
-$body = $_POST['size'];
-echo "POST".$body;
+$shape = $_POST['shape'];
+echo $shape;
 ?>
 
 
