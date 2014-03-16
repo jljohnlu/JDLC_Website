@@ -63,10 +63,18 @@
   </div>
 </div>
 
-<form action="designoutput.php" method="post" name="form">
+<form action="designoutput.php" method="post">
+	<input name="body" type="image" value="arm" src="images/arm.png" style="height:100px; width: 100px;">
+	<input name="body" type="image" value="foot" src="images/foot.png" style="height:100px; width: 100px;">
+	<input name="body" type="image" value="head" src="images/head.png" style="height:100px; width: 100px;">
 
-	<input name="body" type="radio" style="height:100px; width: 100px;" value="images/arm.png">
-	<input name="body" type="radio" style="background-image:url('images/foot.png'); height:100px; width: 100px;">
+	<input name="size" type="image" value="large" src="images/large.png" style="height:100px; width: 100px;">
+	<input name="size" type="image" value="medium" src="images/medium.png" style="height:100px; width: 100px;">
+	<input name="size" type="image" value="small" src="images/small.png" style="height:100px; width: 100px;">
+
+	<input name="shape" type="image" value="diamond" src="images/diamond.png" style="height:100px; width: 100px;">
+	<input name="shape" type="image" value="circle" src="images/circle.png" style="height:100px; width: 100px;">
+	<input name="shape" type="image" value="triangle" src="images/triangle.png" style="height:100px; width: 100px;">
 
 <input name="submit" type="submit" value="Submit">
 </form>
