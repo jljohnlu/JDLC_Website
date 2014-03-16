@@ -4,6 +4,9 @@
  </head>
  <body>
 
+
+<a href= $body.$size.$shape."txt" download>Download</a>
+
 <?php
 $body = $_POST['body'];
 echo $body;
@@ -18,7 +21,6 @@ echo $size;
 $shape = $_POST['shape'];
 echo $shape;
 ?>
-
 
  </body>
 </html>
