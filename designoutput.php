@@ -4,6 +4,8 @@
  </head>
  <body>
 
+ TEST
+
 <?php
 $body = $_POST["body"];
 $size = $_POST["size"];
