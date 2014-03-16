@@ -1,3 +1,9 @@
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+
 <?php
 $body = $_POST["body"];
 $size = $_POST["size"];
@@ -13,11 +19,16 @@ echo "error";
 ?>
 
 <?php
-$body = $_GET["body"];
+$body = $_GET['body'];
 echo "GET".$body;
 ?>
 
 <?php
-$body = $_POST["body"];
+$body = $_POST['body'];
 echo "POST".$body;
 ?>
+
+ </body>
+</html>
+
+
