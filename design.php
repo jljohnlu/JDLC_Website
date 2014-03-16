@@ -65,7 +65,7 @@
 
 
 
-<form action="designoutput.php" method="POST" name="test">
+<form action="http://jdlc.azurewebsites.net/designoutput.php" method="POST" name="">
 	<img src="images/foot.png" alt="foot" style="height:100px; width:100px;">
 	<input type="radio" value="foot" name="body" >:<br />
 	
