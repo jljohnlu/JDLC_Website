@@ -19,7 +19,7 @@ $shape = $_POST['shape'];
 echo $shape;
 ?>
 
-<a href= "<?php echo $body.$size.$shape.'txt'?>" download>Download</a>
+<a href= "<?php echo $body.$size.$shape.'.txt'?>" download>Download</a>
 
 
 
