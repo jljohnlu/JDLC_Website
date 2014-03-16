@@ -1,5 +1,12 @@
 <?php
 $body = $_POST["body"];
+$size = $_POST["size"];
+$shape = $_POST["shape"];
+
 echo $body;
-echo "error"
+<br>
+echo $size;
+<br>
+echo $shape;
+
 ?>
