@@ -70,51 +70,53 @@
 <table>
 	<tr>
       	<td>
-			<img src="images/foot.png" alt="foot" style="height:100px; width:100px;">
 			<input type="radio" value="foot" name="body" >:<br />
+			<img src="images/foot.png" alt="foot" style="height:100px; width:100px;">
        	</td>
         <td>
-        	<img src="images/arm.png" alt="arm" style="height:100px; width:100px;">
 			<input type="radio" value="arm" name="body" >:<br />
+        	<img src="images/arm.png" alt="arm" style="height:100px; width:100px;">
         </td>
         <td>
-        	<img src="images/head.png" alt="head" style="height:100px; width:100px;">
 			<input type="radio" value="head" name="body" >:<br />
+        	<img src="images/head.png" alt="head" style="height:100px; width:100px;">
         </td>
    	</tr>
 
 	<tr>
       	<td>
-			<img src="images/large.png" alt="large" style="height:100px; width:100px;">
 			<input type="radio" value="large" name="size" >:<br />
+			<img src="images/large.png" alt="large" style="height:100px; width:100px;">
        	</td>
         <td>
-			<img src="images/medium.png" alt="medium" style="height:100px; width:100px;">
 			<input type="radio" value="medium" name="size" >:<br />
+			<img src="images/medium.png" alt="medium" style="height:100px; width:100px;">
         </td>
         <td>
-			<img src="images/small.png" alt="small" style="height:100px; width:100px;">
 			<input type="radio" value="small" name="size" >:<br />	
+			<img src="images/small.png" alt="small" style="height:100px; width:100px;">
         </td>
    	</tr>
 
    	<tr>
       	<td>
-			<img src="images/circle.png" alt="circle" style="height:100px; width:100px;">
 			<input type="radio" value="circle" name="shape" >:<br />
+			<img src="images/circle.png" alt="circle" style="height:100px; width:100px;">
        	</td>
         <td>
-			<img src="images/diamond.png" alt="diamond" style="height:100px; width:100px;">
 			<input type="radio" value="diamond" name="shape" >:<br />	
+			<img src="images/diamond.png" alt="diamond" style="height:100px; width:100px;">
         </td>
         <td>
-			<img src="images/triangle.png" alt="triangle" style="height:100px; width:100px;">
 			<input type="radio" value="triangle" name="shape" >:<br />
+			<img src="images/triangle.png" alt="triangle" style="height:100px; width:100px;">
         </td>
    	</tr>
 	
    	<tr>
+   		<td>
 		<input name="submit" type="submit" value="Submit">
+		</td>
 	</tr>
 </table>
 </form>

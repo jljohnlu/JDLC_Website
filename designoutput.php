@@ -6,7 +6,7 @@
 
 <?php
 $body = $_POST['body'];
-echo "POST".$body;
+echo $body;
 ?>
 
 <?php
