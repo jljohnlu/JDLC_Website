@@ -66,25 +66,15 @@
 
 
 <form action="designoutput.php" method="get">
-		<select name="body">                                           
-		    <option value="left" <?php echo $v['position']=='left'?'selected="selected"':'' ?> >Left</option>
-		    <option value="right" <?php echo $v['position']=='right'?'selected="selected"':'' ?>>Right</option>
-		    <option value="centre" <?php echo $v['position']=='centre'?'selected="selected"'?:'' ?>>Centre</option>
-		</select>
-
-
-	<img src="images/arm.png" alt="arm">
 	<img src="images/foot.png" alt="foot">
+	<input type="radio" value="foot" name="body">:<br />
+	
+	<img src="images/arm.png" alt="arm">
+	<input type="radio" value="arm" name="body">:<br />
+
 	<img src="images/head.png" alt="head">
+	<input type="radio" value="head" name="body">:<br />
 
-
-	<input name="size" value="large" src="images/large.png" style="height:100px; width: 100px;">
-	<input name="size" value="medium" src="images/medium.png" style="height:100px; width: 100px;">
-	<input name="size" value="small" src="images/small.png" style="height:100px; width: 100px;">
-
-	<input name="shape" type="text" value="diamond" src="images/diamond.png" style="height:100px; width: 100px;">
-	<input name="shape" type="text" value="circle" src="images/circle.png" style="height:100px; width: 100px;">
-	<input name="shape" type="text" value="triangle" src="images/triangle.png" style="height:100px; width: 100px;">
 
 <input name="submit" type="submit" value="Submit">
 </form>
