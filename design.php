@@ -63,12 +63,14 @@
   </div>
 </div>
 
-<form action="" method="post">
-<input name="body" type="image" value="arm" src="images/arm.png">
-<input name="body" type="image" value="foot" src="images/foot.png">
-<input name="body" type="image" value="head" src="images/head.png">
-
+<form action="designoutput.php" method="post">
+	<input name="body" type="image" value="arm" src="images/arm.png">
+	<input name="body" type="image" value="foot" src="images/foot.png">
+	<input name="body" type="image" value="head" src="images/head.png">
 </form>
+
+
+
 
 <div id="footer">
     <div class="container">
