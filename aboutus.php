@@ -38,7 +38,7 @@
                 <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="forum.php">Forum</a></li>
+                    <li><a href="forum/phpBB3/index.php">Forum</a></li>
                     <li><a href="contactus.php">Contact Us</a></li>
                     <li><a href="faq.php">FAQ</a></li>
                 </ul>
@@ -68,54 +68,71 @@
     <div class="col-xs-2">
             <nav class="nav-sidebar">
                 <ul class="nav" style="float:left;">
-            <li><a href="#aggregator">Grant Aggregator</a></li>
-            <li><a href="#commonapp">Common Application</a></li>
-            <li><a href="#appmanager">Application Manager</a></li>
+        <li><a href="#team">Team</a></li>
+        <li><a href="#advisors">Advisors</a></li>
             </ul>
             </nav>
     </div>
     <div class="col-xs-10">
     <div class="row">
-    <a name="aggregator"></a> 
-    <h2 style="text-align: center">Grant Aggregator</h2>
+    <a name="team"></a> 
+    <h1 style="text-align: center">Team</h1>
       <div class="col-xs-2">
-          <img src="images/icons/aggregator.jpg" alt="..." class="image-bio-thumbnail-borderless-negativemargin">
+          <img src="images/professor_temporary.png" alt="..." class="image-bio-thumbnail">
       </div>
       <div class="col-xs-10">
-          <h4><span class="text-muted">Find all the grants in one place</span></h4>
-          <p class="lead-small">Grant Fellow collects information about both public and private grants and makes them available through our searchable database. Our proprietary matchmaking system also ranks grants based on relevance, so you no longer have to waste time sifting through pages upon pages of irrelevant results.</p>
+          <h2 class="featurette-small">John Lu</h2>
+          <h4><span class="text-muted">Mr. Awesome</span></h4>
+          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
     </div>  
-    <hr class="featurette-divider"> 
-
     <div class="row">
-    <a name="commonapp"></a> 
-    <h2 style="text-align: center">Common Application</h2>
       <div class="col-xs-2">
-          <img src="images/icons/commonapp.jpg" alt="..." class="image-bio-thumbnail-borderless-negativemargin">
+          <img src="images/professor_temporary.png" alt="..." class="image-bio-thumbnail">
       </div>
       <div class="col-xs-10">
-          <h4><span class="text-muted">Save time every time you apply</span></h4>
-          <p class="lead-small">Grant Fellow uses our powerful common application system to save you time. Why type up your personal information or upload your CV every time you apply? Our system stores all that information upon your request on our secure servers, so that you can spend time on other, more important things.</p>
+          <h2 class="featurette-small">John Lu</h2>
+          <h4><span class="text-muted">Mr. Awesome</span></h4>
+          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
-    </div>  
-    <hr class="featurette-divider"> 
-
+    </div>
     <div class="row">
-    <a name="appmanager"></a> 
-    <h2 style="text-align: center">Application Manager</h2>
       <div class="col-xs-2">
-          <img src="images/icons/manager.jpg" alt="..." class="image-bio-thumbnail-borderless-negativemargin">
+          <img src="images/professor_temporary.png" alt="..." class="image-bio-thumbnail">
       </div>
       <div class="col-xs-10">
-          <h4><span class="text-muted">Keep track of important files and dates</span></h4>
-          <p class="lead-small">Grant Fellow helps you keep track of all your past applications and upcoming deadlines. We will also send you email reminders to make sure you do not miss anything important. Our beautiful calendar system gives you the option to visualize each application schedule so that you can plan ahead. </p>
+          <h2 class="featurette-small">John Lu</h2>
+          <h4><span class="text-muted">Mr. Awesome</span></h4>
+          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
-    </div>  
-    <hr class="featurette-divider"> 
+    </div>
+    <div class="row">
+      <div class="col-xs-2">
+          <img src="images/professor_temporary.png" alt="..." class="image-bio-thumbnail">
+      </div>
+      <div class="col-xs-10">
+          <h2 class="featurette-small">John Lu</h2>
+          <h4><span class="text-muted">Mr. Awesome</span></h4>
+          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      </div>
+    </div>
 
+    <hr class="featurette-divider"> 
+    <div class="row">
+    <a name="advisors"></a> 
+    <h1 style="text-align: center">Advisors</h1>
+      <div class="col-xs-2">
+          <img src="images/professor_temporary.png" alt="..." class="image-bio-thumbnail">
+      </div>
+      <div class="col-xs-10">
+          <h2 class="featurette-small">John Lu</h2>
+          <h4><span class="text-muted">Mr. Awesome</span></h4>
+          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      </div>
+    </div>
   </div>
 </div>
+
 
 
 <div id="footer">
