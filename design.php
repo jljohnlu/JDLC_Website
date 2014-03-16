@@ -65,15 +65,15 @@
 
 
 
-<form action="designoutput.php" method="get">
+<form action="designoutput.php" method="post">
 	<img src="images/foot.png" alt="foot">
-	<input type="radio" value="foot" name="body">:<br />
+	<input type="radio" value="foot" name="body" style="height:100px; width:100px;">:<br />
 	
 	<img src="images/arm.png" alt="arm">
-	<input type="radio" value="arm" name="body">:<br />
+	<input type="radio" value="arm" name="body" style="height:100px; width:100px;">:<br />
 
 	<img src="images/head.png" alt="head">
-	<input type="radio" value="head" name="body">:<br />
+	<input type="radio" value="head" name="body" style="height:100px; width:100px;">:<br />
 
 
 <input name="submit" type="submit" value="Submit">
