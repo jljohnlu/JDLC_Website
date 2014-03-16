@@ -63,10 +63,20 @@
   </div>
 </div>
 
-<form action="designoutput.php" method="post">
-	<input name="body" value="arm" src="images/arm.png" style="height:100px; width: 100px;">
-	<input name="body" value="foot" src="images/foot.png" style="height:100px; width: 100px;">
-	<input name="body" value="head" src="images/head.png" style="height:100px; width: 100px;">
+
+
+<form action="designoutput.php" method="get">
+		<select name="body">                                           
+		    <option value="left" <?php echo $v['position']=='left'?'selected="selected"':'' ?> >Left</option>
+		    <option value="right" <?php echo $v['position']=='right'?'selected="selected"':'' ?>>Right</option>
+		    <option value="centre" <?php echo $v['position']=='centre'?'selected="selected"'?:'' ?>>Centre</option>
+		</select>
+
+
+	<img src="images/arm.png" alt="arm">
+	<img src="images/foot.png" alt="foot">
+	<img src="images/head.png" alt="head">
+
 
 	<input name="size" value="large" src="images/large.png" style="height:100px; width: 100px;">
 	<input name="size" value="medium" src="images/medium.png" style="height:100px; width: 100px;">
