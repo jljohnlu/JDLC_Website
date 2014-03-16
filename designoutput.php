@@ -1,7 +1,7 @@
 <?php
-$body = $_POST["body"];
-$size = $_POST["size"];
-$shape = $_POST["shape"];
+$body = $_GET["body"];
+$size = $_GET["size"];
+$shape = $_GET["shape"];
 
 echo $body;
 <br>
