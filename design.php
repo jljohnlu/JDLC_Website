@@ -63,13 +63,9 @@
   </div>
 </div>
 
-<form action="designoutput.php" method="get" name="form">
+<form action="designoutput.php" method="post" name="form">
 
-<select name="body">
-  <option style="background-image:url(images/arm.png);">Arm</option>
-  <option style="background-image:url(images/foot.png);">Foot</option>
-  <option style="background-image:url(images/head.png);">Head</option>
-</select> 
+<div id="my-icon-select"></div>
 
 <input name="submit" type="submit" value="Submit">
 </form>
