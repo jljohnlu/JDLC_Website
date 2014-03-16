@@ -76,7 +76,7 @@
 	<input type="radio" value="head" name="body" >:<br />
 
 
-<input name="submit" type="submit" value="Submit">
+	<input name="submit" type="submit" value="Submit">
 </form>
 
 
