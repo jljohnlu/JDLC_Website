@@ -65,8 +65,8 @@
 
 <form action="designoutput.php" method="post" name="form">
 
-	<input name="grantname" type="hidden" style="background-image:url('images/arm.png'); height:100px; width: 100px;" value="arm">
-	<input name="grantname" type="hidden" style="background-image:url('images/foot.png'); height:100px; width: 100px;" value="foot">
+	<input name="grantname" type="text" style="background-color: transparent; background-image:url('images/arm.png') !important; height:100px; width: 100px;" value="arm">
+	<input name="grantname" type="text" style="background-image:url('images/foot.png'); height:100px; width: 100px;" value="foot">
 
 <input name="submit" type="submit" value="Submit">
 </form>
