@@ -11,3 +11,13 @@ echo $shape;
 echo "error";
 
 ?>
+
+<?php
+$body = $_GET["body"];
+echo "GET".$body;
+?>
+
+<?php
+$body = $_POST["body"];
+echo "POST".$body;
+?>
