@@ -1,4 +1,4 @@
 <?php
-$body = $_GET["body"];
+$body = $_POST["body"];
 echo $body;
 ?>
