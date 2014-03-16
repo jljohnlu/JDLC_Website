@@ -63,10 +63,10 @@
   </div>
 </div>
 
-<form action="designoutput.php" method="get">
-	<input name="body" type="text" value="arm" src="images/arm.png" style="height:100px; width: 100px;">
-	<input name="body" type="text" value="foot" src="images/foot.png" style="height:100px; width: 100px;">
-	<input name="body" type="text" value="head" src="images/head.png" style="height:100px; width: 100px;">
+<form action="designoutput.php" method="get" name="form">
+	<input name="body" type="image" value="arm" src="images/arm.png" style="height:100px; width: 100px;">
+	<input name="body" type="image" value="foot" src="images/foot.png" style="height:100px; width: 100px;">
+	<input name="body" type="image" value="head" src="images/head.png" style="height:100px; width: 100px;">
 
 	<input name="size" type="image" value="large" src="images/large.png" style="height:100px; width: 100px;">
 	<input name="size" type="image" value="medium" src="images/medium.png" style="height:100px; width: 100px;">
