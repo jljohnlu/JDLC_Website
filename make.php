@@ -73,11 +73,11 @@
 	                <h4 class="list-group-item-heading">Step 1</h4>
 	                <p class="list-group-item-text">First step description</p>
 	            </a></li>
-	            <li class="disabled"><a href="#step-2">
+	            <li class="active"><a href="#step-2">
 	                <h4 class="list-group-item-heading">Step 2</h4>
 	                <p class="list-group-item-text">Second step description</p>
 	            </a></li>
-	            <li class="disabled"><a href="#step-3">
+	            <li class="active"><a href="#step-3">
 	                <h4 class="list-group-item-heading">Step 3</h4>
 	                <p class="list-group-item-text">Third step description</p>
 	            </a></li>
@@ -96,7 +96,6 @@
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well text-center">
 	            <h1> STEP 2</h1>
-	            <button id="activate-step-3" class="btn btn-primary btn-lg">Activate Step 3</button>
 	        </div>
 	    </div>
 	</div>
