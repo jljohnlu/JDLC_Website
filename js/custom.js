@@ -78,5 +78,11 @@ $(document).ready(function() {
         $('ul.setup-panel li:eq(1)').removeClass('disabled');
         $('ul.setup-panel li a[href="#step-2"]').trigger('click');
         $(this).remove();
-    })    
+    })
+
+    $('#activate-step-3').on('click', function(e) {
+        $('ul.setup-panel li:eq(1)').removeClass('disabled');
+        $('ul.setup-panel li a[href="#step-3"]').trigger('click');
+        $(this).remove();
+    })     
 });
