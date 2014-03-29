@@ -5,6 +5,8 @@ $(document).ready(function() {
 
     allWells.hide();
 
+    scrollto(#step-1);
+
     navListItems.click(function(e)
     {
         e.preventDefault();
