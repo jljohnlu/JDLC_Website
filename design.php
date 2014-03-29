@@ -115,7 +115,7 @@
 	
    	<tr>
       <td></td>
-   		<td>
+   		<td align = "center">
 		<input name="submit" type="submit" value="Submit">
 		</td>
       <td></td>
