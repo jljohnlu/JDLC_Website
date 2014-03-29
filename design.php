@@ -114,9 +114,11 @@
    	</tr>
 	
    	<tr>
+      <td></td>
    		<td>
-		<input name="submit" type="submit" value="Submit" align="center">
+		<input name="submit" type="submit" value="Submit">
 		</td>
+      <td></td>
 	</tr>
 </table>
 </form>
