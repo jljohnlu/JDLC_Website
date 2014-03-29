@@ -58,21 +58,23 @@
   </div>
 </div>
 
+<br>
+
 <div class="container-fluid">
 	<div class="row">
 	    <div class="col-xs-12">
 	        <ul class="nav nav-pills nav-justified thumbnail setup-panel">
 	            <li class="active"><a href="#step-1">
-	                <h4 class="list-group-item-heading">Step 1</h4>
-	                <p class="list-group-item-text">First step description</p>
+	                <h4 class="list-group-item-heading">Print</h4>
+	                <p class="list-group-item-text"></p>
 	            </a></li>
 	            <li class="active"><a href="#step-2">
-	                <h4 class="list-group-item-heading">Step 2</h4>
-	                <p class="list-group-item-text">Second step description</p>
+	                <h4 class="list-group-item-heading">Order</h4>
+	                <p class="list-group-item-text"></p>
 	            </a></li>
 	            <li class="active"><a href="#step-3">
-	                <h4 class="list-group-item-heading">Step 3</h4>
-	                <p class="list-group-item-text">Third step description</p>
+	                <h4 class="list-group-item-heading">Assemble</h4>
+	                <p class="list-group-item-text"></p>
 	            </a></li>
 	        </ul>
 	    </div>
@@ -80,22 +82,30 @@
 	<div class="row setup-content" id="step-1">
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well text-center">
-	            <h1> STEP 1</h1>
-	            <button id="activate-step-2" class="btn btn-primary btn-lg">Activate Step 2</button>
+	            <h1> Print</h1>
+              <p>To print the parts, follow these instructions. </p>
+              <p>1. Test</p>
+              <p>2. Test</p>
 	        </div>
 	    </div>
 	</div>
 	<div class="row setup-content" id="step-2">
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well text-center">
-	            <h1> STEP 2</h1>
+	            <h1> Order</h1>
+              <p>To order the parts, follow these instructions. </p>
+              <p>1. Test</p>
+              <p>2. Test</p>
 	        </div>
 	    </div>
 	</div>
 	<div class="row setup-content" id="step-3">
 	    <div class="col-xs-12">
-	        <div class="col-md-12 well">
-	            <h1 class="text-center"> STEP 3</h1>
+	        <div class="col-md-12 well text-center">
+	            <h1> Assemble</h1>
+              <p>To assemble the parts, follow these instructions. </p>
+              <p>1. Test</p>
+              <p>2. Test</p>
 	    </div>
 	</div>
   </div>
