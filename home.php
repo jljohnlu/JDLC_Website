@@ -127,6 +127,7 @@
 	    	</br>	   
 	    </div>
 	</div>
+  </div>
 
 <hr class="featurette-divider">
 
