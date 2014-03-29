@@ -67,48 +67,48 @@
 
 <form action="designoutput.php" method="POST" name="">
 
-<table>
+<table align = "center">
 	<tr>
       	<td>
-			<input type="radio" value="foot" name="body" >:<br />
+			<input type="radio" value="foot" name="body" >Foot<br />
 			<img src="images/foot.png" alt="foot" style="height:100px; width:100px;">
        	</td>
         <td>
-			<input type="radio" value="arm" name="body" >:<br />
+			<input type="radio" value="arm" name="body" >Arm<br />
         	<img src="images/arm.png" alt="arm" style="height:100px; width:100px;">
         </td>
         <td>
-			<input type="radio" value="head" name="body" >:<br />
+			<input type="radio" value="head" name="body" >Head<br />
         	<img src="images/head.png" alt="head" style="height:100px; width:100px;">
         </td>
    	</tr>
 
 	<tr>
       	<td>
-			<input type="radio" value="large" name="size" >:<br />
+			<input type="radio" value="large" name="size" >Large<br />
 			<img src="images/large.png" alt="large" style="height:100px; width:100px;">
        	</td>
         <td>
-			<input type="radio" value="medium" name="size" >:<br />
+			<input type="radio" value="medium" name="size" >Medium<br />
 			<img src="images/medium.png" alt="medium" style="height:100px; width:100px;">
         </td>
         <td>
-			<input type="radio" value="small" name="size" >:<br />	
+			<input type="radio" value="small" name="size" >Small<br />	
 			<img src="images/small.png" alt="small" style="height:100px; width:100px;">
         </td>
    	</tr>
 
    	<tr>
       	<td>
-			<input type="radio" value="circle" name="shape" >:<br />
+			<input type="radio" value="circle" name="shape" >Circle<br />
 			<img src="images/circle.png" alt="circle" style="height:100px; width:100px;">
        	</td>
         <td>
-			<input type="radio" value="diamond" name="shape" >:<br />	
+			<input type="radio" value="diamond" name="shape" >Diamond<br />	
 			<img src="images/diamond.png" alt="diamond" style="height:100px; width:100px;">
         </td>
         <td>
-			<input type="radio" value="triangle" name="shape" >:<br />
+			<input type="radio" value="triangle" name="shape" >Triangle<br />
 			<img src="images/triangle.png" alt="triangle" style="height:100px; width:100px;">
         </td>
    	</tr>
