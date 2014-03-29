@@ -131,7 +131,7 @@
 <hr class="featurette-divider">
 
 <div id="footer">
-    <div class="container">
+    <div class="container-fluid">
     	<p style="float: right;"> <a href="privacy.php">Privacy Policy</a> | <a href="contactus.php">Contact Us</a> </p>
     </div>
 </div>
