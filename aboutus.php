@@ -25,14 +25,7 @@
         <ul class="nav navbar-nav navbar-right">  <!--navbar-nav is the uncollapsed bar-->
 
                 <li><a href="home.php">Home</a></li>
-                <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="mission.php">Mission</a></li>
-                    <li><a href="aboutus.php">About Us</a></li>
-                    <li><a href="advisors.php">Advisors</a></li>
-                </ul>
-                </li>
+                <li><a href="aboutus.php">About Us</a></li>
                 <li><a href="design.php">Design</a></li>
                 <li><a href="make.php">Make</a></li>
                 <li class="dropdown">
@@ -137,7 +130,7 @@
 
 <div id="footer">
     <div class="container">
-      <p style="float: right;"> <a href="login.php">Sign Up</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contactus.php">Contact Us</a> </p>
+      <p style="float: right;"><a href="privacy.php">Privacy Policy</a> | <a href="contactus.php">Contact Us</a> </p>
     </div>
 </div>
 

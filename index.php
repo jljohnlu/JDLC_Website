@@ -1,3 +1,3 @@
 <?php
-header('/home.php');
+header('home.php');
 ?>
