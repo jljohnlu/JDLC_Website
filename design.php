@@ -65,7 +65,7 @@
 
 
 
-<form action="http://jdlc.azurewebsites.net/designoutput.php" method="POST" name="">
+<form action="designoutput.php" method="POST" name="">
 
 <table>
 	<tr>
