@@ -63,25 +63,24 @@
   </div>
 </div>
 
+<?php
+	$body = $_POST['body'];
+	$size = $_POST['size'];
+	$shape = $_POST['shape'];
+?>
+
 <div class="container-fluid">
 	<div class="row">
-	  <?php
-		$body = $_POST['body'];
-		echo $body;
-		?>
+		<div class="col-xs-6">
+		<h2>Download</h2>
+		<a href= "<?php echo $body.$size.$shape.'.txt'?>" download>Click here to download the STL code.</a>
+		<a href= "http://www.shapeways.com/create?li=nav">Click here to submit the STL code to shapeways.</a>
+		</div>
 
-		<?php
-		$size = $_POST['size'];
-		echo $size;
-		?>
-
-		<?php
-		$shape = $_POST['shape'];
-		echo $shape;
-		?>
-
-		<a href= "<?php echo $body.$size.$shape.'.txt'?>" download>Download</a>
-
+		<div class="col-xs-6">
+		<h2>Proceed</h2>
+		<a href= "make.php">Click here to order the button from us</a>
+		</div>
 	</div>
 </div>
 
