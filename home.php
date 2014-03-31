@@ -109,20 +109,20 @@
 	<div class="row">
 	    <div class="col-lg-4">
           <h2 style="text-align:center">Affordable</h2>
-          <div style="text-align:center"><img src="images/icons/reliable.jpg" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+          <div style="text-align:center"><img src="images/icons/affordable.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
 	        <p>3D printing allows us to provide you with medical devices customized by you at a low cost. We understand that medical costs quickly add up, so we want to ensure that our product is inexpensive as possible while maintaining high quality.</p>
 	        <!--Code for button if we need:<p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>-->
 	    	</br>
 	    </div>
 	    <div class="col-lg-4">
 	        <h2 style="text-align:center">Customizable</h2>
-          <div style="text-align:center"><img src="images/icons/secure.jpg" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+          <div style="text-align:center"><img src="images/icons/customizable.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
 	        <p>Every person has different needs, so our medical devices reflect it. To design your own button, it is as simple as selecting your custom brick and connecting the bricks together. That way you can easily make the personalized device you want.</p>
 	    	</br>
 	    </div>
 	    <div class="col-lg-4">
           <h2 style="text-align:center">Simple</h2>
-          <div style="text-align:center"><img src="images/icons/Simple.jpg" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+          <div style="text-align:center"><img src="images/icons/simple.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
 	        <p>Assembling and repairing your personalized device should be easy. Our site walks you through each step of building your device from scratch. Not up to the task? We'll guide you to services that can build it for you. We want to be with you every step the of the way.</p>
 	    	</br>	   
 	    </div>
