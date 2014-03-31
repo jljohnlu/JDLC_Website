@@ -95,12 +95,11 @@
   <div class="row featurette">
     <div class="col-md-1">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-10">
         <h2 class="featurette-heading">How can we help you?</h2>
         <p class="lead">JDLC 3D is an online service to help you create your own assistive devices. In a couple of clicks, you can have the templates and materials you need to create a device personal to you or your loved ones. After working with many children with physical disabilities, we concluded that technology should adapt to them instead of the other way around. Powered by 3D printing technology, we can help you make assistive devices custom to the needs of you or your child. We're also open source. Want to improve a design for others? Submit your improvement to support the community. Let's work together to build a better world.</p>
     </div>
-    <div class="col-md-3">
-        <img class="featurette-image img-responsive" src="images/images/female_professor_shadow.jpg" style="max-height: 400px;">
+    <div class="col-md-1">
     </div>
   </div>
 
@@ -110,6 +109,7 @@
 	    <div class="col-lg-4">
           <h2 style="text-align:center">Affordable</h2>
           <div style="text-align:center"><img src="images/icons/affordable.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+	        <br>
 	        <p>3D printing allows us to provide you with medical devices customized by you at a low cost. We understand that medical costs quickly add up, so we want to ensure that our product is inexpensive as possible while maintaining high quality.</p>
 	        <!--Code for button if we need:<p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>-->
 	    	</br>
@@ -117,12 +117,14 @@
 	    <div class="col-lg-4">
 	        <h2 style="text-align:center">Customizable</h2>
           <div style="text-align:center"><img src="images/icons/customizable.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+	        <br>
 	        <p>Every person has different needs, so our medical devices reflect it. To design your own button, it is as simple as selecting your custom brick and connecting the bricks together. That way you can easily make the personalized device you want.</p>
 	    	</br>
 	    </div>
 	    <div class="col-lg-4">
           <h2 style="text-align:center">Simple</h2>
           <div style="text-align:center"><img src="images/icons/simple.png" alt="..." class="image-bio-thumbnail-borderless-nomargin"></div>
+	        <br>
 	        <p>Assembling and repairing your personalized device should be easy. Our site walks you through each step of building your device from scratch. Not up to the task? We'll guide you to services that can build it for you. We want to be with you every step the of the way.</p>
 	    	</br>	   
 	    </div>
