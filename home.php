@@ -47,7 +47,6 @@
   <h1>Assist 3D</h1>
   <p>Custom 3D-Printed Assistive Technology</p>
   <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
-  <img src="images/banner_temporary3.jpg" style="width: 100%; height: auto; max-height: 500px;">
 </div>
 
 
