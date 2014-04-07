@@ -53,7 +53,7 @@
     </div>
     <div class="hero-tab-images">
       <div class="hero-image active">
-        <img src="images/banners/banner_small.jpg" style="width: 100%; height: 200px;">
+        <img src="images/banners/banner_small.png" style="width: 100%; height: 200px;">
         </div>
   </div>
 </div>

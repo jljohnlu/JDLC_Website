@@ -43,10 +43,11 @@
 
 	</nav>
 
-<div class="jumbotron" style="background-image: url(images/banners/banner_large.png); width: 100%; height: auto; max-height: 500px;">
+<div class="jumbotron">
   <h1>Assist 3D</h1>
   <p>Custom 3D-Printed Assistive Technology</p>
   <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+  <img src="images/banners/banner_large.png" style="width: 100%; height: auto;">
 </div>
 
 
