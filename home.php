@@ -43,51 +43,13 @@
 
 	</nav>
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-          <div id="logo">
-          <img src="images/banner_temporary3.jpg" style="width: 100%; height: auto; max-height: 500px;">
-          </div>
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>JDLC 3D</h1>
-              <p>Medical Devices with a Touch of Personality</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-        	<div id="logo">
-          <img src="images/banner_temporary3.jpg" style="width: 100%; height: auto; max-height: 500px;">
-          </div>
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Why us?</h1>
-              <p>We provide an easy, all-inclusive service for you to create custom medical devices.</p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-         	<div id="logo">
-          <img src="images/banner_temporary3.jpg" style="width: 100%; height: auto; max-height: 500px;">
-           	</div>
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>How do I start my own design?</h1>
-              <p><a class="btn btn-primary btn-lg" role="button"href="login.php">Click here</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-    </div>
+<div class="jumbotron" style="background-image: url(images/banners/banner_large.png); width: 100%; height: auto; max-height: 500px;">
+  <h1>Assist 3D</h1>
+  <p>Custom 3D-Printed Assistive Technology</p>
+  <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
+  <img src="images/banner_temporary3.jpg" style="width: 100%; height: auto; max-height: 500px;">
 </div>
+
 
 <div class="container">
 <hr class="featurette-divider" style="margin-top: -30px">
