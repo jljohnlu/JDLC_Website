@@ -70,7 +70,7 @@ $(document).ready(function() {
             $target.show();
         }
     });
-    
+
     $('ul.setup-panel li.active a').trigger('click');
 
     $('#activate-step-2').on('click', function(e) {

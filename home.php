@@ -40,11 +40,10 @@
 	    		</ul>
 	    	</div>
 	   	</div>
-
 	</nav>
 
 <div class="jumbotron">
-  <img src="images/banners/banner_large.png" style="width: 100%; height: auto;">
+  <img src="images/banners/banner_large.png" style="width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto">
 </div>
 
 
