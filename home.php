@@ -48,8 +48,6 @@
 
 
 <div class="container">
-<hr class="featurette-divider" style="margin-top: -30px">
-
   <div class="row featurette">
     <div class="col-md-1">
     </div>
