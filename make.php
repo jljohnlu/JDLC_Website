@@ -1,6 +1,6 @@
 <html>
   <head>
-      <title>Grant Fellow</title>
+      <title>Assist 3D</title>
   </head>
   
       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

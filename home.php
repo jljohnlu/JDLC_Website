@@ -1,6 +1,6 @@
 <html>
 	<head>
-  		<title>JDLC 3D</title>
+      <title>Assist 3D</title>
  	</head>
 	
 	<link href="css/bootstrap.css" rel="stylesheet">
