@@ -41,7 +41,7 @@
 	    	</div>
 	   	</div>
 	</nav>
-
+	
 <div class="jumbotron">
   <img src="images/banners/banner_large.png" style="width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto">
 </div>
@@ -102,7 +102,5 @@
     <script src="js/custom.js"></script>
     <script src="js/jquery.dynatable.js"></script>
 
+
 </html>
-
-
-</div>
