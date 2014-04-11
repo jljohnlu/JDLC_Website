@@ -47,7 +47,7 @@
 </div>
 
 
-<div class="container" style="margin-top: -200px">
+<div class="container" style="margin-top: -100px">
   <div class="row featurette">
     <div class="col-md-1">
     </div>
