@@ -60,19 +60,19 @@
 
 <form action="designoutput.php" method="POST" name="">
 
-<table align = "center" cellspacing="10px">
+<table align = "center">
 	<tr>
       	<td align = "center">
 			<input type="radio" value="foot" name="body" > Foot<br />
-			<img src="images/foot.png" alt="foot" style="height:200px; width:200px;">
+			<img src="images/foot.png" alt="foot" style="height:200px; width:200px; margin-bottom:20px;">
        	</td>
         <td align = "center">
 			<input type="radio" value="arm" name="body" > Arm<br />
-        	<img src="images/arm.png" alt="arm" style="height:200px; width:200px;">
+        	<img src="images/arm.png" alt="arm" style="height:200px; width:200px; margin-bottom:20px;">
         </td>
         <td align = "center">
 			<input type="radio" value="head" name="body" > Head<br />
-        	<img src="images/head.png" alt="head" style="height:200px; width:200px;">
+        	<img src="images/head.png" alt="head" style="height:200px; width:200px; margin-bottom:20px;">
         </td>
    	</tr>
 	<tr>
