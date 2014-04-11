@@ -61,7 +61,7 @@
 <form action="designoutput.php" method="POST" name="">
 
 <table align = "center">
-	<tr style="margin-bottom: 50px;">
+	<tr>
       	<td align = "center">
 			<input type="radio" value="foot" name="body" > Foot<br />
 			<img src="images/foot.png" alt="foot" style="height:200px; width:200px;">
