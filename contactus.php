@@ -7,40 +7,39 @@
   <link href="css/custom.css" rel="stylesheet">
   <link href="css/jquery.dynatable.css" rel="stylesheet">
 
-  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 
         <div class="container-fluid">
 
-          <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="home.php"><img src="images/logos/logo_horizontal.png" style="max-height: 50px;"></a>            
-        </div>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="home.php"><img src="images/logos/logo_horizontal.png" style="max-height: 50px;"></a>              
+            </div>
 
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-right">  <!--navbar-nav is the uncollapsed bar-->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">  <!--navbar-nav is the uncollapsed bar-->
 
-                <li><a href="home.php">Home</a></li>
+                        <li><a href="home.php">Home</a></li>
                 <li><a href="aboutus.php">About Us</a></li>
-                <li><a href="design.php">Design</a></li>
-                <li><a href="make.php">Make</a></li>
-                <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="forum/phpBB3/index.php">Forum</a></li>
-                    <li><a href="contactus.php">Contact Us</a></li>
-                    <li><a href="faq.php">FAQ</a></li>
+                        <li><a href="design.php">Design</a></li>
+                        <li><a href="make.php">Make</a></li>
+                        <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="contactus.php">Contact Us</a></li>
+                            <li><a href="faq.php">FAQ</a></li>
+                        </ul>
+                        </li>
+                    </li>
                 </ul>
-                </li>
-              </li>
-          </ul>
+            </div>
         </div>
-      </div>
-  </nav>
+    </nav>
 
 <div class="hero">
     <div class="container">

@@ -33,7 +33,6 @@
                 <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="forum/phpBB3/index.php">Forum</a></li>
                     <li><a href="contactus.php">Contact Us</a></li>
                     <li><a href="faq.php">FAQ</a></li>
                 </ul>
@@ -42,7 +41,6 @@
           </ul>
         </div>
       </div>
-
   </nav>
 
 <div class="hero">
