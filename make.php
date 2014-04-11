@@ -86,6 +86,7 @@
               <p>To print the parts, follow these instructions. </p>
               <p>1. Test</p>
               <p>2. Test</p>
+              <button id="activate-step-2" class="btn btn-primary btn-lg">Activate Step 2</button>
 	        </div>
 	    </div>
 	</div>
@@ -96,6 +97,7 @@
               <p>To order the parts, follow these instructions. </p>
               <p>1. Test</p>
               <p>2. Test</p>
+              <button id="activate-step-3" class="btn btn-primary btn-lg">Activate Step 3</button>
 	        </div>
 	    </div>
 	</div>
