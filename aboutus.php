@@ -116,7 +116,7 @@
     <a name="advisors"></a> 
     <h1 style="text-align: center">Advisors</h1>
       <div class="col-xs-12">
-          <img src="images/penn-logo.png" alt="..." style="display: block; margin-left: auto; margin-right: auto; width: 80%; height: auto;">
+          <img src="images/penn-logo.png" alt="..." style="display: block; margin-left: auto; margin-right: auto; width: 50%; height: auto;">
       </div>
     </div>
   </div>

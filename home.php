@@ -42,7 +42,7 @@
 	</nav>
 	
 <div class="jumbotron">
-  <img src="images/banners/banner_large.png" style="width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto">
+  <img src="images/banners/banner_large.png" style="width: 80%; height: auto; display: block; margin-left: auto; margin-right: auto">
 </div>
 
 
