@@ -87,7 +87,7 @@
               <p>1. Test</p>
               <p>2. Test</p>
               <br>
-              <button id="activate-step-2" class="btn btn-primary btn-lg">>Order</button>
+              <button id="activate-step-2" class="btn btn-primary btn-lg">Order</button>
 	        </div>
 	    </div>
 	</div>
@@ -99,7 +99,7 @@
               <p>1. Test</p>
               <p>2. Test</p>
               <br>
-              <button id="activate-step-2" class="btn btn-primary btn-lg">Assemble</button>
+              <button id="activate-step-3" class="btn btn-primary btn-lg">Assemble</button>
 	        </div>
 	    </div>
 	</div>
