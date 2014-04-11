@@ -75,7 +75,8 @@
         	<img src="images/head.png" alt="head" style="height:200px; width:200px;">
         </td>
    	</tr>
-<br> 
+  <tr>
+  </tr>
 	<tr>
       	<td align = "center">
 			<input type="radio" value="large" name="size" > Large<br />
