@@ -60,7 +60,7 @@
 
 <form action="designoutput.php" method="POST" name="">
 
-<table align = "center">
+<table align = "center" cellspacing="10px">
 	<tr>
       	<td align = "center">
 			<input type="radio" value="foot" name="body" > Foot<br />
