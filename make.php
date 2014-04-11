@@ -66,11 +66,11 @@
 	                <h4 class="list-group-item-heading">Print</h4>
 	                <p class="list-group-item-text"></p>
 	            </a></li>
-	            <li class="active"><a href="#step-2">
+	            <li class="disabled"><a href="#step-2">
 	                <h4 class="list-group-item-heading">Order</h4>
 	                <p class="list-group-item-text"></p>
 	            </a></li>
-	            <li class="active"><a href="#step-3">
+	            <li class="disabled"><a href="#step-3">
 	                <h4 class="list-group-item-heading">Assemble</h4>
 	                <p class="list-group-item-text"></p>
 	            </a></li>
