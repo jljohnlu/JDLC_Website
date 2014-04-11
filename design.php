@@ -92,21 +92,6 @@
    	</tr>
 
    	<tr>
-      	<td align = "center">
-			<input type="radio" value="circle" name="shape" > Circle<br />
-			<img src="images/circle.png" alt="circle" style="height:100px; width:100px;">
-       	</td>
-        <td align = "center">
-			<input type="radio" value="diamond" name="shape" > Diamond<br />	
-			<img src="images/diamond.png" alt="diamond" style="height:100px; width:100px;">
-        </td>
-        <td align = "center">
-			<input type="radio" value="triangle" name="shape" > Triangle<br />
-			<img src="images/triangle.png" alt="triangle" style="height:100px; width:100px;">
-        </td>
-   	</tr>
-	
-   	<tr>
       <td></td>
    		<td align = "center">
 		<input name="submit" type="submit" value="Submit">
