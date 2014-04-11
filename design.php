@@ -64,30 +64,30 @@
 	<tr>
       	<td align = "center">
 			<input type="radio" value="foot" name="body" > Foot<br />
-			<img src="images/foot.png" alt="foot" style="height:100px; width:100px;">
+			<img src="images/foot.png" alt="foot" style="height:200px; width:200px;">
        	</td>
         <td align = "center">
 			<input type="radio" value="arm" name="body" > Arm<br />
-        	<img src="images/arm.png" alt="arm" style="height:100px; width:100px;">
+        	<img src="images/arm.png" alt="arm" style="height:200px; width:200px;">
         </td>
         <td align = "center">
 			<input type="radio" value="head" name="body" > Head<br />
-        	<img src="images/head.png" alt="head" style="height:100px; width:100px;">
+        	<img src="images/head.png" alt="head" style="height:200px; width:200px;">
         </td>
    	</tr>
 
 	<tr>
       	<td align = "center">
 			<input type="radio" value="large" name="size" > Large<br />
-			<img src="images/large.png" alt="large" style="height:100px; width:100px;">
+			<img src="images/large.png" alt="large" style="height:200px; width:200px;">
        	</td>
         <td align = "center">
 			<input type="radio" value="medium" name="size" > Medium<br />
-			<img src="images/medium.png" alt="medium" style="height:100px; width:100px;">
+			<img src="images/medium.png" alt="medium" style="height:200px; width:200px;">
         </td>
         <td align = "center">
 			<input type="radio" value="small" name="size" > Small<br />	
-			<img src="images/small.png" alt="small" style="height:100px; width:100px;">
+			<img src="images/small.png" alt="small" style="height:200px; width:200px;">
         </td>
    	</tr>
 
