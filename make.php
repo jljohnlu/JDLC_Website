@@ -79,11 +79,11 @@
 	</div>
 	<div class="row setup-content" id="step-1">
 	    <div class="col-xs-12">
-	        <div class="col-md-12 well text-center">
+	        <div class="col-md-12 well">
+            <div style="align-text:center;">
 	            <h1> Print</h1>
               <p>To print the parts, follow these instructions. </p>
-          </div>
-          <div class="col-md-12 well">
+            </div>
               <ol>
                 <li>Setting up the Lulzbot 3D Printer</li>
                     <ul>
