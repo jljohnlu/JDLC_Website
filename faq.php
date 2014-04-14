@@ -90,9 +90,9 @@
 
     <div class="row">
           <h4><span class="text-muted">What software will I need to do this?</span></h4>
-          <p class="lead-small"> <a href= "http://www.netfabb.com/downloadcenter.php?basic=1">netfabb (manipulating STL)</a>
-          <a href= "http://slic3r.org/">Slic3r (converts .stl to .gcode) </a>
-          <a href= "http://replicatorwarehouse.com/pronterface/">Pronterface (connect to and control physical printer)</a>
+          <p class="lead-small"> <a href= "http://www.netfabb.com/downloadcenter.php?basic=1">netfabb (manipulating STL)</a></p>
+          <p class="lead-small"> <a href= "http://slic3r.org/">Slic3r (converts .stl to .gcode) </a></p>
+          <p class="lead-small"> <a href= "http://replicatorwarehouse.com/pronterface/">Pronterface (connect to and control physical printer)</a></p>
     </p>
     </div>  
     <br>
