@@ -58,6 +58,9 @@
     </div>
   </div>
 
+
+<p><a class="btn btn-primary btn-lg" role="button"href="http://jdlc3d.azurewebsites.net/make.php">Click here to make your own</a></p>
+
   <hr class="featurette-divider">
 
 	<div class="row">

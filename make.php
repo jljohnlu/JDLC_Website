@@ -82,13 +82,15 @@
 	        <div class="col-md-12 well text-center">
 	            <h1> Print</h1>
               <p>To print the parts, follow these instructions. </p>
+          </div>
+          <div class="col-md-12 well">
               <ol>
                 <li>Setting up the Lulzbot 3D Printer</li>
                     <ul>
                       <li>Flip the power switch on Lulzbot</li>
                       <li>Open Pronterface</li>
-                      <li>Click “Connect” near the top of the window</li>
-                      <li>Click “Set” for the heater and for the bed to warm up the printer</li>
+                      <li>Click "Connect" near the top of the window</li>
+                      <li>Click "Set" for the heater and for the bed to warm up the printer</li>
                      </ul>
                 <li>Optional: Rotate and scale your .stl part</li>
                     <ul>
@@ -105,7 +107,7 @@
                     </ul>
                 <li>Prepare to print</li>
                     <ul>
-                      <li>Click “Load…” in Pronterface</li>
+                      <li>Click "Load…" in Pronterface</li>
                       <li>Select your .gcode file from Slic3r</li>
                       <li>Check the temperature by clicking “Check temp”</li>
                       <li>As the nozzle heats up, a bit of ABS will ooze from the tip, so use the tweezers to pull off the excess ABS</li>
@@ -119,7 +121,7 @@
                     </ul>
                 <li>Turning off the printer</li>
                     <ul>
-                      Hit “Disconnect” in the Pronterface window
+                      Hit "Disconnect" in the Pronterface window
                       Close Pronterface
                       Flip off the power switch on Lulzbot
                     </ul>
