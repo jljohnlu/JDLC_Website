@@ -81,9 +81,9 @@
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well">
 	            <h1 align="center"> Print</h1>
-              <p align="center">To print the parts, follow these instructions. </p>
+              <p align="center">To print the parts, follow these instructions. <a href= "http://jdlc3d.azurewebsites.net/faq.php#printing">Click here to read our FAQ.</a></p>
               <ol>
-                <li>Setting up the Lulzbot 3D Printer. <a href= "http://jdlc3d.azurewebsites.net/faq.php#printing">Click here to read our FAQ.</a></li>
+                <li>Setting up the Lulzbot 3D Printer</li>
                     <ul>
                       <li>Flip the power switch on Lulzbot</li>
                       <li>Open Pronterface</li>
