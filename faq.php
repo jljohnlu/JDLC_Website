@@ -59,41 +59,52 @@
     <div class="col-xs-2">
             <nav class="nav-sidebar">
                 <ul class="nav" style="float:left;">
-        <li><a href="#team">Team</a></li>
-        <li><a href="#advisors">Advisors</a></li>
+        <li><a href="#printing">Printing</a></li>
+        <li><a href="#other">Other</a></li>
             </ul>
             </nav>
     </div>
     
     <div class="col-xs-10">
     <div class="row">
-    <a name="Category 1"></a> 
-    <h1 style="text-align: center">Category 1</h1>
-          <h4><span class="text-muted">Why is Colin asian?</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    <a name="printing"></a> 
+    <h1 style="text-align: center">Printing</h1>
+          <h4><span class="text-muted">What are we giving you?</span></h4>
+          <p class="lead-small">You are downloading two files for your desired device. One for the cap and one for the base. They are both .stl files.</p>
     </div>  
     <br>
 
     <div class="row">
-          <h4><span class="text-muted">Why is Colin still asian?</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">What is an .stl file?</span></h4>
+          <p class="lead-small">You can think of an STL file as a PDF, but for 3D objects. Just like a PDF, you are limited in what you can change. You can change the size of the STL or orientation (print it upside down or right side up). However, you cannot change the overall design or contour much like you cannot change the text or formatting in a PDF.</p>
+
+          <p class="lead-small">We design the .stl for you, so you don't have to! All you need to do is print the .stl, because we have already scaled and oriented for you.</p>
     </div>  
     <br>
 
     <div class="row">
-          <h4><span class="text-muted">No seriously, why is Colin racist?</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">How do I print my .stl file?</span></h4>
+          <p class="lead-small">Unlike a PDF, you need to convert .stl files to a printable file before sending it to your 3D printer. This printable file is called .gcode, which basically contains the instructions of how your 3D printer should move to print your desired object. You can simply load the .gcode into your printer's desktop program and print your object.</p>
+    </div>  
+    <br>
+
+    <div class="row">
+          <h4><span class="text-muted">What software will I need to do this?</span></h4>
+          <p class="lead-small"> <a href= "http://www.netfabb.com/downloadcenter.php?basic=1">netfabb (manipulating STL)</a>
+          <a href= "http://slic3r.org/">Slic3r (converts .stl to .gcode) </a>
+          <a href= "http://replicatorwarehouse.com/pronterface/">Pronterface (connect to and control physical printer)</a>
+    </p>
     </div>  
     <br>
 
     <hr class="featurette-divider"> 
 
     <div class="row">
-    <a name="Category 2"></a> 
-    <h1 style="text-align: center">Category 2</h1>
+    <a name="Other"></a> 
+    <h1 style="text-align: center">Other</h1>
    
-          <h4><span class="text-muted">Why is Colin still asian?</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">How do I contact you?</span></h4>
+          <p class="lead-small">Email us directly at jdlc3d@gmail.com if you have any questions</p>
     </div>  
 
 

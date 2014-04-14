@@ -82,8 +82,48 @@
 	        <div class="col-md-12 well text-center">
 	            <h1> Print</h1>
               <p>To print the parts, follow these instructions. </p>
-              <p>1. Test</p>
-              <p>2. Test</p>
+              <ol>
+                <li>Setting up the Lulzbot 3D Printer</li>
+                    <ul>
+                      <li>Flip the power switch on Lulzbot</li>
+                      <li>Open Pronterface</li>
+                      <li>Click “Connect” near the top of the window</li>
+                      <li>Click “Set” for the heater and for the bed to warm up the printer</li>
+                     </ul>
+                <li>Optional: Rotate and scale your .stl part</li>
+                    <ul>
+                      <li>Open your .stl file in netfabb</li>
+                      <li>Verify that the part is rotated and scaled to your specification</li>
+                      <li>Right click on the part and export as an .stl file for your updated .stl</li>
+                      <li>Close netfabb (no need to save the project)</li>
+                    </ul>
+                <li>Convert .stl part to .gcode printer instructions</li>
+                    <ul>
+                      <li>Open Slic3r</li>
+                      <li>Drag and drop your .stl file onto the Slic3r window</li>
+                      <li>Click "Export as G-Code"</li>
+                    </ul>
+                <li>Prepare to print</li>
+                    <ul>
+                      <li>Click “Load…” in Pronterface</li>
+                      <li>Select your .gcode file from Slic3r</li>
+                      <li>Check the temperature by clicking “Check temp”</li>
+                      <li>As the nozzle heats up, a bit of ABS will ooze from the tip, so use the tweezers to pull off the excess ABS</li>
+                      <li>When the temperature reaches the setpoint, click “print” and immediately click “Mini mode”</li>
+                      <li>Allow your object to print</li>
+                    </ul>
+                <li>Removing your part</li>
+                    <ul>
+                      <li>Wait for the printer to cool down to at least 60˚F by clicking “Check temp”</li>
+                      <li>Use a tweezers and dull knife to remove the part from the bed of the 3D printer</li>
+                    </ul>
+                <li>Turning off the printer</li>
+                    <ul>
+                      Hit “Disconnect” in the Pronterface window
+                      Close Pronterface
+                      Flip off the power switch on Lulzbot
+                    </ul>
+                </ol>
               <br>
               <button id="activate-step-2" class="btn btn-primary btn-lg">Order</button>
 	        </div>
