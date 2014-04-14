@@ -58,8 +58,9 @@
     </div>
   </div>
 
-
-<p><a class="btn btn-primary btn-lg" role="button"href="http://jdlc3d.azurewebsites.net/make.php">Click here to make your own</a></p>
+<div class="container" style="align-text: center;">
+<p><a class="btn btn-primary btn-lg" role="button"href="http://jdlc3d.azurewebsites.net/make.php" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Click here to make your own</a></p>
+</div>
 
   <hr class="featurette-divider">
 
