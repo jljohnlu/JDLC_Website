@@ -80,8 +80,8 @@
 	<div class="row setup-content" id="step-1">
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well">
-	            <h1> Print</h1>
-              <p>To print the parts, follow these instructions. </p>
+	            <h1 align="center"> Print</h1>
+              <p align="center">To print the parts, follow these instructions. </p>
               <ol>
                 <li>Setting up the Lulzbot 3D Printer</li>
                     <ul>
