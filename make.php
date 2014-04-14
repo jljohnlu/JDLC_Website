@@ -125,7 +125,7 @@
                     </ul>
                 </ol>
               <br>
-              <button id="activate-step-2" class="btn btn-primary btn-lg">Order</button>
+              <button id="activate-step-2" class="btn btn-primary btn-lg" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Next Step</button>
 	        </div>
 	    </div>
 	</div>
@@ -137,7 +137,7 @@
               <p>1. Test</p>
               <p>2. Test</p>
               <br>
-              <button id="activate-step-3" class="btn btn-primary btn-lg">Assemble</button>
+              <button id="activate-step-3" class="btn btn-primary btn-lg" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Next Step</button>
 	        </div>
 	    </div>
 	</div>
