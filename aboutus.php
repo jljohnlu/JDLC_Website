@@ -69,7 +69,7 @@
     <a name="team"></a> 
     <h1 style="text-align: center">Team</h1>
       <div class="col-xs-2">
-          <img src="images/dayo.png" style="width: 100%; height: auto;">
+          <img src="images/dayo.png" style="width: 100%; height: auto; margin-top: 15px;">
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Dayo Adewole</h2>
@@ -80,7 +80,7 @@
     <br>
     <div class="row">
       <div class="col-xs-2">
-          <img src="images/lyle.png" style="width: 100%; height: auto;">
+          <img src="images/lyle.png" style="width: 100%; height: auto; margin-top: 15px;">
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Lyle Brunhofer</h2>
@@ -91,7 +91,7 @@
     <br>
     <div class="row">
       <div class="col-xs-2">
-          <img src="images/john.png" style="width: 100%; height: auto;">
+          <img src="images/john.png" style="width: 100%; height: auto; margin-top: 15px;">
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">John Lu</h2>
@@ -102,7 +102,7 @@
     <br>
     <div class="row">
       <div class="col-xs-2">
-          <img src="images/colin.png" style="width: 100%; height: auto;">
+          <img src="images/colin.png" style="width: 100%; height: auto; margin-top: 15px;">
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Colin Millar</h2>
