@@ -84,8 +84,8 @@
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Lyle Brunhofer</h2>
-          <h4><span class="text-muted">Mr. Awesome</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">L of JDLC</span></h4>
+          <p class="lead-small">Lyle Brunhofer is a senior studying at the University of Pennsylvania. He is concurrently pursuing his Master and Bachelor of Science degrees in Bioengineering. Over the past few years, he has been immersed in this field, both inside and outside of classes. He has had the opportunity to work in the Children’s Hospital of Philadelphia as well as participate in a Global Biomedical Service Program, in which he went to Yangjiang, China and fabricated orthotics for children with Cerebral Palsy. Community service was a large part of his life throughout his high school years, during which his second home was Pegasus Riding Academy in Northeast Philadelphia. It has followed through into his time at Penn as a brother of Alpha Phi Omega, Penn’s only national co-ed service fraternity. When he is not busy doing problem sets or volunteering at a neighborhood event, Lyle enjoys being a member of the Equestrian team. In the winter, he is always looking forward to the snow and skiing. Consequently, it is not surprising that his favorite place to visit and explore is Switzerland.</p>
       </div>
     </div>
     <br>
@@ -95,8 +95,8 @@
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">John Lu</h2>
-          <h4><span class="text-muted">Mr. Awesome</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">J of JDLC</span></h4>
+          <p class="lead-small">John Lu is a senior studying at the University of Pennsylvania. He is currently pursuing a Master and Bachelor of Science degrees in Materials Science Engineering, as well as a Bachelor of Science in Economics in the Wharton School. In the past, he has been heavily involved in community service, specifically with autistic children. When he is not studying or making sure Colin is doing work, you can find him coding and trying to make sure the website is up. Not a child at heart, he loves the opportunity to learn and enjoys reading and discussions about philosophical topics. In the future, he hopes to rule the world and then start his own non-profit to work with autistic children. He also hopes to spend half his time in the Motherland China, and in Canada. He enjoys the company of polar bears. </p>
       </div>
     </div>
     <br>
@@ -106,8 +106,8 @@
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Colin Millar</h2>
-          <h4><span class="text-muted">Mr. Awesome</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">C of JDLC</span></h4>
+          <p class="lead-small">Colin Millar has always had a love of learning, even deemed a Renaissance Man by some. From machine learning to music theory, he looks forward to exploring and applying new ideas. In high school, he had his first opportunity to hack up a device to test the effectiveness of stereoscopic vision in surgery, which brought him to the Intel International Science Fair. Afterwards, he has pursued Bioengineering at the University of Pennsylvania, looking to integrate his diverse interests in medicine, devices, and programming. When he's not studying or taking things apart, you can find him taking vitals at free health clinics, teaching, cooking dinner or singing and playing the ukulele. A child at heart, he loves the opportunity to tutor kids and simply put smiles on their faces. He hopes to combine all these interests to improve the health of the world.</p>
       </div>
     </div>
 
