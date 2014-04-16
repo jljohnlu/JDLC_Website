@@ -80,7 +80,7 @@
     <br>
     <div class="row">
       <div class="col-xs-2">
-          <img src="images/lyle.png" style="width: 100%; height: auto; margin-top: 15px;">
+          <img src="images/lyle.png" style="width: 100%; height: auto; margin-top: 30px;">
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Lyle Brunhofer</h2>

@@ -133,9 +133,15 @@
 	    <div class="col-xs-12">
 	        <div class="col-md-12 well text-center">
 	            <h1> Order</h1>
-              <p>To order the parts, follow these instructions. </p>
-              <p>1. Test</p>
-              <p>2. Test</p>
+              <p>To order the parts, click on each part</p>
+              <p><a href= "https://www.lulzbot.com/products/black-abs-3mm-filament-1kg-reel">Black ABS 3mm Filament, 1kg Reel</a></p>
+              <p><a href= "http://www.mcmaster.com/#9697t1/=rjwttb">Easy-ID Low-Voltage Cable, 24 Gauge</a></p>
+              <p><a href= "http://www.mouser.com/ProductDetail/REAN-Neutrik/NYS226BG/?qs=sGAEpiMZZMv0W4pxf2HiV218T9lEUjXAK2vXQz%2fUz3o%3d">Phone Connectors Plug 3.5mm mono plug black/gold REAN</a></p>
+              <p><a href= "http://www.mcmaster.com/#hook-and-loop-cinching-straps/=ql0lr5">Cut-to-Length Cinching Strap with 15' of 1" Hook w/ Loop Strap w/ 10 Cinching Rings</a></p>
+              <p><a href= "http://www.mcmaster.com/#catalog/120/3405/=ql98fb">Solder with Rosin Flux Core, 60% TIN, 40% Lead Comp, .050" Wire Diameter, 1 lb Spool</a></p>
+              <p><a href= "http://www.mcmaster.com/#gorilla-glue/=ql0v3g">Superbond Polyurethane Glue 4 oz.</a></p>
+              <p><a href= "http://www.mcmaster.com/#9657k266/=rjxa0w">Springs</a></p>
+              <p><a href= "http://www.mouser.com/ProductDetail/Mountain-Switch/101-0264-EV/?qs=sGAEpiMZZMsgGjVA3toVBDnZjK1udZ%2fpYjk5pdxgsFo%3d">Tactile Switches</a></p>
               <br>
               <button id="activate-step-3" class="btn btn-primary btn-lg" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Next Step</button>
 	        </div>
