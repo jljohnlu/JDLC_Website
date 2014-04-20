@@ -154,8 +154,7 @@
 	        <div class="col-md-12 well text-center">
 	            <h1> Assemble</h1>
               <p>To assemble the parts, follow these instructions. </p>
-              <p>1. Test</p>
-              <p>2. Test</p>
+              <p><iframe width="560" height="315" src="//www.youtube.com/embed/vpfAvsJSqHo" frameborder="0" allowfullscreen></iframe></p>
 	    </div>
 	</div>
   </div>
