@@ -65,7 +65,7 @@
 	<div class="row">
 		<div class="col-xs-6">
 			<div class="alert alert-success">
-				<h2>Download</h2>
+				<h2>Order Online</h2>
 				<a href= "<?php echo "files/".$body.$size.'.stl'?>" download>Click here to download the STL code for cap.</a><br>
         <a href= "<?php echo "files/base".$size.'.stl'?>" download>Click here to download the STL code for base.</a><br>
 				<a href= "http://www.shapeways.com/create?li=nav">Click here to submit the STL code to shapeways.</a><br>
@@ -74,7 +74,7 @@
 
 		<div class="col-xs-6">
 			<div class="alert alert-info">
-				<h2>Proceed</h2>
+				<h2>Make It Yourself</h2>
 				<a href= "make.php">Click here to order the button from us</a>
 				<br>
         <br>
@@ -83,7 +83,6 @@
 		</div>
 	</div>
 </div>
-
 
 
 <div id="footer">
