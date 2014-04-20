@@ -73,8 +73,8 @@
       </div>
       <div class="col-xs-10">
           <h2 class="featurette-small">Dayo Adewole</h2>
-          <h4><span class="text-muted">Mr. Awesome</span></h4>
-          <p class="lead-small">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <h4><span class="text-muted">D of JDLC</span></h4>
+          <p class="lead-small">A loose cannon since birth, Dayo Adewole has always gotten stuff done. Now as a senior at the University of Pennsylvania, he’s directing his drive and growing knowledge base to bioengineering and robotics. When he’s not working towards developing better prosthetic devices he enjoys drawing, graphic design, and tinkering with electronics. He’s saving up for his own Makerbot to fuel his newfound obsession of 3D printing.</p>
       </div>
     </div>  
     <br>

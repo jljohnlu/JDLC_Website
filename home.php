@@ -52,14 +52,14 @@
     </div>
     <div class="col-md-10">
         <h2 class="featurette-heading" align="center">How can we help you?</h2>
-        <p class="lead">JDLC 3D is an online service to help you create your own assistive devices. In a couple of clicks, you can have the templates and materials you need to create a device personal to you or your loved ones. After working with many children with physical disabilities, we concluded that technology should adapt to them instead of the other way around. Powered by 3D printing technology, we can help you make assistive devices custom to the needs of you or your child. We're also open source. Want to improve a design for others? Submit your improvement to support the community. Let's work together to build a better world.</p>
+        <p class="lead">Assist3D is an online service to help you create your own assistive devices. In a couple of clicks, you can have the templates and materials you need to create a device personal to you or your loved ones. After working with many children with physical disabilities, we concluded that technology should adapt to them instead of the other way around. Powered by 3D printing technology, we can help you make assistive devices custom to the needs of you or your child. We're also open source. Want to improve a design for others? Submit your improvement to support the community. Let's work together to build a better world.</p>
     </div>
     <div class="col-md-1">
     </div>
   </div>
 
 <div class="container" style="align-text: center;">
-<p><a class="btn btn-primary btn-lg" role="button"href="http://jdlc3d.azurewebsites.net/make.php" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Click here to make your own</a></p>
+<p><a class="btn btn-primary btn-lg" role="button"href="http://jdlc3d.azurewebsites.net/design.php" style="align-text:center; display:block; width: 300px; margin-left: auto; margin-right: auto; ">Click here to make your own</a></p>
 </div>
 
   <hr class="featurette-divider">
