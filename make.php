@@ -105,16 +105,16 @@
                     </ul>
                 <li>Prepare to print</li>
                     <ul>
-                      <li>Click "Load…" in Pronterface</li>
+                      <li>Click "Load..." in Pronterface</li>
                       <li>Select your .gcode file from Slic3r</li>
-                      <li>Check the temperature by clicking “Check temp”</li>
+                      <li>Check the temperature by clicking "Check temp"</li>
                       <li>As the nozzle heats up, a bit of ABS will ooze from the tip, so use the tweezers to pull off the excess ABS</li>
-                      <li>When the temperature reaches the setpoint, click “print” and immediately click “Mini mode”</li>
+                      <li>When the temperature reaches the setpoint, click "print" and immediately click "Mini mode"</li>
                       <li>Allow your object to print</li>
                     </ul>
                 <li>Removing your part</li>
                     <ul>
-                      <li>Wait for the printer to cool down to at least 60˚F by clicking “Check temp”</li>
+                      <li>Wait for the printer to cool down to at least 60 degrees Farenheit by clicking "Check temp"</li>
                       <li>Use a tweezers and dull knife to remove the part from the bed of the 3D printer</li>
                     </ul>
                 <li>Turning off the printer</li>
